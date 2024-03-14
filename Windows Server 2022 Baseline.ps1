@@ -3272,8 +3272,7 @@ if(([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::G
 }
 
 Write-Info "CIS Microsoft Windows Server 2022 Benchmark"
-Write-Info "Script by Evan Greene"
-Write-Info "Original Script written and tested by Vinicius Miguel"
+Write-Info "Script by Mahyar :) "
 
 # Enable Windows Defender settings on Windows Server
 Set-MpPreference -AllowNetworkProtectionOnWinServer 1
